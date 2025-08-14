@@ -24,7 +24,8 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 ---
 
 ## 🖥️ Live Demo
-[Click here to view the app](#)  
+<img width="729" height="466" alt="image" src="https://github.com/user-attachments/assets/5f7815a2-37dc-48d2-b633-d80c763d5d16" />
+
 https://to-do-list-app-xi-neon.vercel.app/
 
 ---
